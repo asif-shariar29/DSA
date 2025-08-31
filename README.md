@@ -2,7 +2,7 @@
 
 Welcome to my **Data Structures and Algorithms (DSA)** and **Design and Analysis of Algorithms (DAA)** code archive!
 
-This repository contains **some problems** that I solved during my **initial learning stage of DSA & DAA** in my **2nd year journey as a CSE student**. I'm uploading these here mainly for **storage, backup**, and to **organize my work** for easier future reference. This also helps me build a solid GitHub profile. The archive may be helpful for other students or learners who are just starting with common DSA/DAA topics.
+This repository contains **some problems** that I solved during my **initial learning stage of DSA & DAA** in my **2nd year journey as a CSE student**. I'm uploading these here mainly for **storage, backup**, and to **organize my work** for easier future reference.
 
 ---
 
